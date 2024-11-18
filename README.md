@@ -1,3 +1,5 @@
-Ao realizar o login e o registro serão encaminhados e-mails para o e-mail digitado. 
+Ao realizar o registro será encaminhado um e-mail para o e-mail digitado. 
 
-Confirme seu acesso através desse e-mail 
+Confirme seu acesso através desse e-mail.
+
+Caso o e-mail digitado não exista, não será possível fazer o registro na aplicação 
